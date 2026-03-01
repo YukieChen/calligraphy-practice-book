@@ -8,6 +8,8 @@
 
 # 手寫字型下載
 
+- [隨峰體 Plus](https://cjkfonts.io/blog/ThePeakFontPlus)
+- [霞鶩文楷](https://github.com/lxgw/LxgwWenKai)
 - [辰宇落雁體](https://github.com/Chenyu-otf/chenyuluoyan_thin)
 - [851 手書雜項字體](https://pm85122.onamae.jp/851fontpage.html)
 - [芫荽字體](https://github.com/ButTaiwan/iansui)
@@ -17,4 +19,3 @@
 - [快去寫作業](https://github.com/Partyb0ssishere/cef-fonts-cjk)
 - [悠哉字體](https://github.com/lxgw/yozai-font)
 - [全瀨體](https://cjkfonts.io/blog/cjkfonts_allseto)
-- [隨峰體 Plus](https://cjkfonts.io/blog/ThePeakFontPlus)
